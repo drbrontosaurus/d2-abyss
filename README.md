@@ -1,13 +1,17 @@
 # Diablo II: The Abyss
-Diablo II: The Abyss is a mod I made for Diablo II: Lord of Destruction. When Diablo II came out in 2000, I was already a fan of the first game and was instantly hooked. Time and again, I come back to Diablo II. It’s one of those games you get a spontaneous urge to play a couple times a year. Now in 2010, its time for another D2 binge. This time, whenever I find myself thinking “Damn, it’d be cool if [cool idea] was in D2,” I add it. So far, this has taken the form of 50+ new runewords, several new skills, additional sockets in some items, and much more.
+The Abyss is a mod I made for Diablo II: Lord of Destruction. When Diablo II came out in 2000, I was already a fan of the first game and was instantly hooked. Time and again, I come back to Diablo II. It’s one of those games you get a spontaneous urge to play a couple times a year. Now in 2010, its time for another D2 binge. This time, whenever I find myself thinking “Damn, it’d be cool if [cool idea] was in D2,” I add it. So far, this has taken the form of 50+ new runewords, several new skills, additional sockets in some items, and much more.
 ## Installation
+If you can get D2 running on patch 1.11b (or 1.12,) good on you; but it will probably have to be run on a VirtualBox or something at this point (in 2018)
+1st priority is getting it to some runnable state on the "modern" version, 1.14(some letter of the alphabet)
+
 (old)
 1. Backup your original patch_d2.mpq and your character files (the Save folder in the game directory) just in case! Windows Vista/7 users: If you installed Diablo 2 in a non-public folder (i.e. Program Files) some of the files, especially the Save folder, will be found in %APPDATA%\Diablo II.
 2. Run d2a_setup.exe
 3. Run the game using the launcher setup placed in the Start Menu\Diablo II.
-## Runes & Runewords
+## Added/Changed Items
+### Runes & Runewords
 All these are in addition to the existing runes in Diablo 2: Lord of Destruction.
-### Arcane Runes
+#### Arcane Runes
 These runes can be upgraded using the Horadric Cube. Combine 2 of the runes you wish to upgrade along with another rune in the same circle, and one sacred herb.
 01. Fehu Rune
 02. Uruz Rune
@@ -33,50 +37,50 @@ These runes can be upgraded using the Horadric Cube. Combine 2 of the runes you 
 22. Yngvi Rune
 23. Odal Rune
 24. Dagaz Rune
-### Runewords
-    Serendipity (AnsuzFehu) [All armor slots]
-    Shadow (HagalSowilPerth) [helms and shields]
-    Morning Dew (LaguzRaidoWunjoTiwaz) [swords]
-    Siren’s Song (JeraIsazBjarkYngviPerth) [weapon]
-    Starlight (AnsuzKenaz) [helm]
-    Shadow of Doubt (GeboIsazEhwazKenazAlgiz) [all]
-    Still Water (LaguzPerth) [gloves]
-    Flickering Flame (KenazPerth) [gloves]
-    Time (JeraRaido) [boots]
-    Thuggish Ruggish (BjarkPerfectskullTiwaz) [troll nest, grim shield, bone visage]
-    Conky (KenazNaudJera) [Wirt’s Leg]
-    Heaven’s Will (ManazTiwazSowilHagal) [Weapons]
-    Nightfall (DagazBjark) [Weapons]
-    Obsession (NaudNaud) [All Weapons and All Armor]
-    Fortune’s Favor (NaudNaudNaud) [All Weapons and All Armor]
-    Authority (NaudNaudNaudNaudNaudNaud) [All Weapons and All Armor]
-    Woe (IsazUruz) [Weapons]
-## The Horadric Cube Formulae
-### Arcane Rune Upgrades
-2 f01 + 1st circle rune + Sacred Herb -> f02
-2 f02 + 2nd circle rune + Sacred Herb -> f03
-2 f03 + 2nd circle rune + Sacred Herb -> f04
-2 f04 + 2nd circle rune + Sacred Herb -> f05
-2 f05 + 3rd circle rune + Sacred Herb -> f06
-2 f06 + 3rd circle rune + Sacred Herb -> f07
-2 f07 + 3rd circle rune + Sacred Herb -> f08
-2 f08 + 3rd circle rune + Sacred Herb -> f09
-2 f09 + 4th circle rune + Sacred Herb -> f10
-2 f10 + 4th circle rune + Sacred Herb -> f11
-2 f11 + 4th circle rune + Sacred Herb -> f12
-2 f12 + 4th circle rune + Sacred Herb -> f13
-2 f13 + 5th circle rune + Sacred Herb -> f14
-2 f14 + 5th circle rune + Sacred Herb -> f15
-2 f15 + 5th circle rune + Sacred Herb -> f16
-2 f16 + 5th circle rune + Sacred Herb -> f17
-2 f17 + 5th circle rune + Sacred Herb -> f18
-2 f18 + 6th circle rune + Sacred Herb -> f19
-2 f19 + 6th circle rune + Sacred Herb -> f20
-2 f20 + 6th circle rune + Sacred Herb -> f21
-2 f21 + 6th circle rune + Sacred Herb -> f22
-2 f22 + 6th circle rune + Sacred Herb -> f23
-2 f23 + 6th circle rune + Sacred Herb -> f24
-### Equipment
+#### Runewords
+01. Serendipity (AnsuzFehu) [All armor slots]
+02. Shadow (HagalSowilPerth) [helms and shields]
+03. Morning Dew (LaguzRaidoWunjoTiwaz) [swords]
+04. Siren’s Song (JeraIsazBjarkYngviPerth) [weapon]
+05. Starlight (AnsuzKenaz) [helm]
+06. Shadow of Doubt (GeboIsazEhwazKenazAlgiz) [all]
+07. Still Water (LaguzPerth) [gloves]
+08. Flickering Flame (KenazPerth) [gloves]
+09. Time (JeraRaido) [boots]
+10. Thuggish Ruggish (BjarkPerfectskullTiwaz) [troll nest, grim shield, bone visage]
+11. Conky (KenazNaudJera) [Wirt’s Leg]
+12. Heaven’s Will (ManazTiwazSowilHagal) [Weapons]
+13. Nightfall (DagazBjark) [Weapons]
+14. Obsession (NaudNaud) [All Weapons and All Armor]
+15. Fortune’s Favor (NaudNaudNaud) [All Weapons and All Armor]
+16. Authority (NaudNaudNaudNaudNaudNaud) [All Weapons and All Armor]
+17. Woe (IsazUruz) [Weapons]
+### The Horadric Cube Formulae
+#### Arcane Rune Upgrades
+01. 2 f01 + 1st circle rune + Sacred Herb -> f02
+02. 2 f02 + 2nd circle rune + Sacred Herb -> f03
+03. 2 f03 + 2nd circle rune + Sacred Herb -> f04
+04. 2 f04 + 2nd circle rune + Sacred Herb -> f05
+05. 2 f05 + 3rd circle rune + Sacred Herb -> f06
+06. 2 f06 + 3rd circle rune + Sacred Herb -> f07
+07. 2 f07 + 3rd circle rune + Sacred Herb -> f08
+08. 2 f08 + 3rd circle rune + Sacred Herb -> f09
+09. 2 f09 + 4th circle rune + Sacred Herb -> f10
+10. 2 f10 + 4th circle rune + Sacred Herb -> f11
+11. 2 f11 + 4th circle rune + Sacred Herb -> f12
+12. 2 f12 + 4th circle rune + Sacred Herb -> f13
+13. 2 f13 + 5th circle rune + Sacred Herb -> f14
+14. 2 f14 + 5th circle rune + Sacred Herb -> f15
+15. 2 f15 + 5th circle rune + Sacred Herb -> f16
+16. 2 f16 + 5th circle rune + Sacred Herb -> f17
+17. 2 f17 + 5th circle rune + Sacred Herb -> f18
+18. 2 f18 + 6th circle rune + Sacred Herb -> f19
+19. 2 f19 + 6th circle rune + Sacred Herb -> f20
+20. 2 f20 + 6th circle rune + Sacred Herb -> f21
+21. 2 f21 + 6th circle rune + Sacred Herb -> f22
+22. 2 f22 + 6th circle rune + Sacred Herb -> f23
+23. 2 f23 + 6th circle rune + Sacred Herb -> f24
+#### Equipment
 3 health potions + 3 mana potions -> full rejuvenate potion
 3 health potions + 3 mana potions + 1 chipped gem -> rejuvenate potion
 3 small rejuvs -> one large
@@ -97,7 +101,7 @@ These runes can be upgraded using the Horadric Cube. Combine 2 of the runes you 
 1 strangling gas potion + 1 health potion -> antidote potion
 2 arrows -> bolts
 2 bolts -> arrows
-### Equipment Upgrades
+#### Equipment Upgrades
 r07 + r10 + 1 perfect topaz + normal torso -> socketed torso
 r08 + r11 + 1 perfect amethyst + normal weapon -> socketed weapon
 r08 + r10 + 1 perfect sapphire + normal helm -> socketed helm
@@ -127,7 +131,7 @@ r01 + gcv + tempered weapon -> +30-50 ar
 6 perfect skulls + 1 rare item -> 1 low level rare item
 1 perfect skull + 1 rare item + soj -> 1 high level rare item
 3 perfect skull + 1 rare item + stone of jordan-> add 1 socket to rare
-### Gem Upgrades
+#### Gem Upgrades
 3 chipped amethysts -> flawed amethyst
 3 flawed amethysts -> standard amethyst
 3 standard amethysts -> flawless amethyst
@@ -157,7 +161,7 @@ r01 + gcv + tempered weapon -> +30-50 ar
 3 standard skulls -> flawless skull
 3 flawless skulls -> perfect skull
 rune 01 + Sacred Herb + perf gem -> 1 of each color chipped gem
-### Rune Upgrades
+#### Rune Upgrades
 3 El Runes -> 1 Eld Rune
 3 Eld Runes -> 1 Tir Rune
 3 Tir Runes -> 1 Nef Rune
